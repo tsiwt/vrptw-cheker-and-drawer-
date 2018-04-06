@@ -14,3 +14,6 @@ python vrptw_checker.py
 two functions:
 1.  check if the solution  is feasible.
 2.  draw a map for the solution.
+
+
+the  exampe_c1_2_1.png  is a picture generated  by vrptw_checker for problem c1_2_1
